@@ -1,5 +1,7 @@
 ## 파이썬 타입 어노테이션
 
+- 문서 https://mypy.readthedocs.io/en/stable/index.html
+
 ### 실습 1
 - 링크 : https://wikidocs.net/134883
 - 링크 : http://mypy-lang.org/
